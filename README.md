@@ -4,5 +4,4 @@
 - 💞️ I’m looking to collaborate with WhiteHat Jr.
 - 📫 How to reach me 
 Email ~ ashmeevandana@gmail.com
-PH No. ~ +91 8882140427
 Address ~ Hiamalyas

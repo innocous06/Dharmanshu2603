@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Dharmanshu2603
-- 👀 I’m interested in Coding , Football , Cycling etc.
-- 🌱 I’m currently learning JS , Java , Python , HTML , CSS etc.
+- 👋 Hi, I’m @innocous guy
+- 👀 I’m interested in Coding , Football , Cycling , Music etc.
+- 🌱 I’m currently learning JS , Java , Python , HTML , CSS , C/C++ , etc.
 - 💞️ I’m looking to collaborate with Google, Microsoft, Android,.etc.
 - 📫 How to reach me 
-Email ~ dharmanshu06@gmail.com
+Email ~ innocous06@duck.com
 Address ~ Hiamalyas
